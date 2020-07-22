@@ -1,2 +1,2 @@
 # Climate-Classification
-Classify the climate with a shot
+Five differet class is available cloudy, foggy,rainy, shine, sunrise.
